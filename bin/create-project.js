@@ -25,7 +25,7 @@ function parseArgumentsIntoOptions(rawArgs) {
 }
 
 async function promptForMissingOptions(options) {
-  const defaultTemplate = "JavaScript";
+  const defaultTemplate = "express";
   if (options.skipPrompts) {
     return {
       ...options,

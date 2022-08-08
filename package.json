@@ -1,6 +1,6 @@
 {
   "name": "sawaneh1_create-project",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "a CLI generate a new express project for",
   "main": "indxe.js",
   "type": "module",
