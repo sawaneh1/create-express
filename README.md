@@ -1,6 +1,6 @@
 # create-express
 
-This is CLI for creating a boiler plate for an express project. It saves the pain of starting your node express project by creating all the necessary files to get your started. It has basic registration and login created with the model and route in place. It also initialise git for you.
+This is CLI for creating a boiler plate for an express project. It saves you the pain of starting your node express project by creating all the necessary files to get your started. It has basic registration and login created with the model and route in place. It also initialise git for you.
 
 ## To install run:
 
