@@ -1,0 +1,35 @@
+{
+  "name": "sawaneh1_create-project",
+  "version": "1.0.0",
+  "description": "a CLI generate a new express project for",
+  "main": "indxe.js",
+  "type": "module",
+  "bin": {
+    "sawaneh1_create-express": "./index.js",
+    "create-express": "./index.js"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cli",
+    "create-express",
+    "node cli",
+    "express project"
+  ],
+  "author": "Sulayman Sawaneh",
+  "license": "ISC",
+  "dependencies": {
+    "arg": "^5.0.2",
+    "chalk": "^5.0.1",
+    "esm": "^3.2.25",
+    "execa": "^6.1.0",
+    "inquirer": "^9.1.0",
+    "listr": "^0.14.3",
+    "ncp": "^2.0.0",
+    "pkg-install": "^1.0.0"
+  }
+}
